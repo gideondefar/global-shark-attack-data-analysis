@@ -1,6 +1,6 @@
 # Global Shark Attack Data Analysis
 
-Python exploratory analysis of global shark attack records, developed through self-directed research questions during coursework at Birkbeck, University of London.
+An exploratory data analysis project investigating global shark attack records using Python, pandas and Matplotlib. The project focuses on data cleaning, identifying patterns, visualising trends and interpreting findings.
 
 ## Research questions
 - How do recorded fatality proportions compare for surfing and other activities?
