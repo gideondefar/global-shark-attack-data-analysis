@@ -13,7 +13,7 @@ Python, pandas, matplotlib, Jupyter Notebook.
 ## Running the notebook
 1. Install dependencies with `pip install -r requirements.txt`.
 2. Obtain an appropriately licensed copy of the dataset and place it at `data/shark-attacks-cleaned.csv`.
-3. Open `notebooks/shark_attack_analysis.ipynb` from the repository root.
+3. Open `shark_attack_data_analysis.ipynb` from the repository root.
 
 ## Limitations
 The findings describe *recorded incidents*, not population-adjusted attack risk. Reporting bias, missing records, inconsistent labels and uncertain species identification can affect conclusions.
